@@ -1,7 +1,7 @@
 body{
 	/*background-color:#efefef;*/
 	background-color:white;
-	padding: 10px;
+	padding: 5px;
 }
 
 svg {
@@ -20,7 +20,7 @@ svg {
 
 #map-title{
 	font-size:18px;
-	margin:5px;
+	margin:0px;
 }
 
 #sub-title{
